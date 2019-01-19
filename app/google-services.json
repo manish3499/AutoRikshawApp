@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "635122128421",
+    "firebase_url": "https://rikshawshare.firebaseio.com",
+    "project_id": "rikshawshare",
+    "storage_bucket": "rikshawshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635122128421:android:a19bc7518b44cc5f",
+        "android_client_info": {
+          "package_name": "com.example.manish.rikshawshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635122128421-blo23om29826lt61o8krtth3u5attkt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manish.rikshawshare",
+            "certificate_hash": "9fd0740c6a79a9dbb24aa96dc1d0551d43b192a9"
+          }
+        },
+        {
+          "client_id": "635122128421-bkhag0bfegfq1v6fn5d992dsn8ma0q0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd3FT1AtiQMzD_70EgalaBWlbG-A7fm7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635122128421-bkhag0bfegfq1v6fn5d992dsn8ma0q0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
